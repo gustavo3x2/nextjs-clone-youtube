@@ -11,7 +11,7 @@ const theme = createTheme({
       paper: colors.common.white,
     },
     primary: {
-      main: '#f44336',
+      main: '#green',
     },
     secondary: {
       main: '#3EA6FF',
